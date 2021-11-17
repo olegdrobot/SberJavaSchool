@@ -1,1 +1,1 @@
-# [Project - CardManager](https://github.com/olegdrobot/SberJavaSchool/CardManager)
+# [Project - CardManager](https://github.com/olegdrobot/SberJavaSchool/tree/CardManager)
