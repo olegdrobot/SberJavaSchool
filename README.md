@@ -1,4 +1,4 @@
-# [Project - CardManager](https://github.com/olegdrobot/SberJavaSchool/edit/CardManager/README.md)
+# [Project - CardManager](https://github.com/olegdrobot/SberJavaSchool/tree/CardManager/)
 
 # [Home work 1](https://github.com/olegdrobot/SberJavaSchool/tree/HomeWork1)
 
